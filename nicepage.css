@@ -26791,16 +26791,16 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
-.u-header .u-sheet-1 {min-height: 80px}
-.u-header .u-image-1 {margin: 22px auto 26px 0}
+.u-header .u-sheet-1 {min-height: 96px}
+.u-header .u-image-1 {margin: 16px auto 16px -57px}
 .u-header .u-logo-image-1 {max-width: 64px; max-height: 64px} 
-@media (max-width: 1199px){ .u-header .u-image-1 {width: 64px; height: 32px} }
+@media (max-width: 1199px){ .u-header .u-image-1 {margin-left: 0; width: 64px; height: 32px} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
 
  .u-footer {background-image: none}
-.u-footer .u-sheet-1 {min-height: 131px}
-.u-footer .u-custom-html-1 {min-height: 100px; height: auto; margin: 16px 0} 
+.u-footer .u-sheet-1 {min-height: 136px}
+.u-footer .u-custom-html-1 {min-height: 100px; height: auto; margin: 36px 0 0} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
 .u-footer .u-custom-html-1 {margin-right: initial; margin-left: initial} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
